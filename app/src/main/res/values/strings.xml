@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">week8_dataStoragekeyValue</string>
+    <string name="sharedpreffilename">com.example.sickl.week8_datastoragekeyvalue.SHARDPREF</string>
+</resources>
